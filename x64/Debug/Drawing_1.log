@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\ivanm\source\repos\Drawing_1\main.c(55,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanm\source\repos\Drawing_1\main.c(56,47): warning C4305: +=: усечение из "double" в "float"
+C:\Users\ivanm\source\repos\Drawing_1\main.c(172,59): warning C4047: =: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\ivanm\source\repos\Drawing_1\main.c(185,52): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\ivanm\source\repos\Drawing_1\main.c(294,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanm\source\repos\Drawing_1\main.c(303,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanm\source\repos\Drawing_1\main.c(313,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanm\source\repos\Drawing_1\main.c(322,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivanm\source\repos\Drawing_1\main.c(286,9): warning C4305: инициализация: усечение из "double" в "float"
+  Drawing_1.vcxproj -> C:\Users\ivanm\source\repos\Drawing_1\x64\Debug\Drawing_1.exe
